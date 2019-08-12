@@ -7,5 +7,7 @@ public class git {
         System.out.println("hello git project");
         System.out.println("hello git project");
 
+        System.out.println("修改git中的内容...");
+
     }
 }
